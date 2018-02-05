@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/cerrar_sesion_menu"
+        android:title="Cerrar Sesión"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/misequipos_menu"
+        android:title="Mis Equipos"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/misamigos_menu"
+        android:title="Mis Amigos"
+        app:showAsAction="never"/>
+</menu>
